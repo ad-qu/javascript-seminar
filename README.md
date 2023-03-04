@@ -1,2 +1,2 @@
 # javascript-seminar
- Ejercicio de EA realizado para practicar las operaciones básicas de Javascript.
+EA exercise made to practice basic Javascript operations.
